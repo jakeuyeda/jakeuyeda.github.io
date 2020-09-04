@@ -5,7 +5,7 @@ image: images/mana_square.jpg
 title: Mana FC
 permalink: projects/manafc
 # All dates must be YYYY-MM-DD format!
-date: 2014-02-18
+date: 2017-06-18
 labels:
   - Sports
   - Team Building
