@@ -17,7 +17,7 @@ This was one of the projects where I only had my self to depend on. I had to cod
 
  Here is some of my code:
  
-'''
+
     while (run == true) {
 
         int user;
@@ -32,5 +32,4 @@ This was one of the projects where I only had my self to depend on. I had to cod
         std:: cout << "[0] Quit the program.\n";    
     
         user = userInterface();        
-    }
-'''   
+    } 
