@@ -5,11 +5,12 @@ image: images/micromouse.jpg
 title: Mana FC
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2014-02-16
+date: 2014-02-18
 labels:
   - Sports
   - Team Building
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Leadership
+summary: Mana FC is a soccer team in which I was a team captain.
 ---
 
 
