@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: My Software Enginnering interests
+title: My Interest in Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
   - Software Engineering
-  - Skills
   - Interests
+  - Skills
 ---
 
 Software Engineering is defined as a process of analyzing user requirements and then designing, building, and testing software applications which will satisfy those requirements. (Guru99) When I read this definition, I see many skills I need to develop to be a proficient software engineer. In this piece I will tell you what got me interested in software engineering and what I think is the best skill to know for becoming a proficient software engineer.
