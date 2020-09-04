@@ -22,5 +22,3 @@ You will need a lot of skills to become a proficient software engineer, but what
 
 ## Sources
 
-<https://www.guru99.com/what-is-software-engineering.html>
-
