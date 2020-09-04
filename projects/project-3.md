@@ -17,14 +17,12 @@ This was one of the projects where I only had my self to depend on. I had to cod
 
  Here is some of my code:
  
-''
-int main(int argc, char * argv[])
-{
+[
+int main(int argc, char * argv[]) {
     bool run = true;
     llist mylist;
    
-    while (run == true)
-    {
+    while (run == true) {
 
         int user;
     
@@ -37,4 +35,5 @@ int main(int argc, char * argv[])
         std:: cout << "[5] Reverse the order of the database.\n";
         std:: cout << "[0] Quit the program.\n";    
     
-        user = userInterface();''
+        user = userInterface();
+ ]
