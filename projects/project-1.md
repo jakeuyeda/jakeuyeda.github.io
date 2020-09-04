@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/mana_square.jpg
 title: Mana FC
-permalink: projects/micromouse
+permalink: projects/manafc
 # All dates must be YYYY-MM-DD format!
 date: 2014-02-18
 labels:
@@ -13,14 +13,12 @@ labels:
 summary: Mana FC is a soccer team in which I was a team captain.
 ---
 
+Mana FC was a soccer team in which I was a team captain. I was on this team 2014-2017 with some of my friends. We played in the league called HYSA (Hawaii Youth Soccer Association). We had practice twice a week and at least one game every weekend. Most of my teammates were younger than me so I had to be someone who could be relied on.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
+For this team, I was the a team captain who was responsible for encouraging my teammates, being a role model, and relaying my coaches orders. Being on this team taught me a lot of things. It taught me how to be a leader and how to work in a team. When being a leader I learned that you had to be a good role model. You could not just tell a person to do something if you are not doing it too. That would make them think bad of you, and in the future may not even listen to you.
 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more about HYSA at the [HYSA Website](https://www.hawaiisoccer.com/about-hysa/). This is where we got into tounaments and played our season.
 
 
 
