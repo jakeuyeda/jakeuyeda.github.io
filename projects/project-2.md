@@ -2,21 +2,20 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Raquetball
+permalink: projects/raquetball
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-17
+date: 2018-12-12
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Logic Works
+  - VHDL
+  - Circuits
+summary:  I designed a raquetball game using circuit boards and DE2 boards with a partner in EE260. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This was a project where I worked with one other person. We had the opportunity to design and implement several design techniques using SSi and MSI parts and gave us more experience using VHDL and Altera DE2 boards.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
