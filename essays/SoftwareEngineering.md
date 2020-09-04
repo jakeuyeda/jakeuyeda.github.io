@@ -10,7 +10,7 @@ labels:
   - Skills
 ---
 
-Software Engineering is defined as a process of analyzing user requirements and then designing, building, and testing software applications which will satisfy those requirements. (Guru99) When I read this definition, I see many skills I need to develop to be a proficient software engineer. In this piece I will tell you what got me interested in software engineering and what I think is the best skill to know for becoming a proficient software engineer.
+Software Engineering is defined as a process of analyzing user requirements and then designing, building, and testing software applications which will satisfy those requirements. (Guru99, Website) When I read this definition, I see many skills I need to develop to be a proficient software engineer. In this piece I will tell you what got me interested in software engineering and what I think is the best skill to know for becoming a proficient software engineer.
 
 ## Why I am interested in Software Engineering
 
