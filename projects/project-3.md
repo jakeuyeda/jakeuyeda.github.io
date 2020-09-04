@@ -17,3 +17,24 @@ This was one of the projects where I only had my self to depend on. I had to cod
 
  Here is some of my code:
  
+''
+int main(int argc, char * argv[])
+{
+    bool run = true;
+    llist mylist;
+   
+    while (run == true)
+    {
+
+        int user;
+    
+        std:: cout << "Main Menu\n";
+        std:: cout << "Enter the number next to the command.\n";
+        std:: cout << "[1] Add a new record to the databse.\n";
+        std:: cout << "[2] Print information about a record using accountno as the key.\n";
+        std:: cout << "[3] Print all information in the database.\n";
+        std:: cout << "[4] Delete an existing record from the database using the accountno as key.\n";
+        std:: cout << "[5] Reverse the order of the database.\n";
+        std:: cout << "[0] Quit the program.\n";    
+    
+        user = userInterface();''
