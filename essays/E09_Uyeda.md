@@ -7,6 +7,7 @@ date: 2020-09-03
 labels:
   - Software Engineering
   - Javascript
+  - Java
 ---
 
 Javascript is a very interesting language. I have learned Java prior to learning Javascript so learning Javascript was much easier. When learning Javascipt I have realized that there are a lot of similarities and differences between Java. 
