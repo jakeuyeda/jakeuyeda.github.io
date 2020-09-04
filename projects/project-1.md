@@ -5,7 +5,7 @@ image: images/micromouse.jpg
 title: Mana FC
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2014-2016
+date: 2014-02-16
 labels:
   - Sports
   - Team Building
