@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Interest in Software Engineering
+title: Becoming a Proficient Software Engineer
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
