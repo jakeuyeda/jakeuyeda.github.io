@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Javascipt
+title: Thoughts on Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
