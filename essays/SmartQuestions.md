@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-Let me start this off by asking, "What is a smart question?" Before I knew the answer to this sort of question, I thought a smart question is a question that helps you understand something. But according to this website: http://www.catb.org/esr/faqs/smart-questions.html, There is a lot in asking a smart question.
+Let me start this off by asking, "What is a smart question?" Before I knew the answer to this sort of question, I thought a smart question is a question that helps you understand something. But according to this website: <http://www.catb.org/esr/faqs/smart-questions.html>, There is a lot in asking a smart question.
 
 ## Important things into asking a Smart Question
 
@@ -17,12 +17,12 @@ When you have a question on a topic, you have to make sure you are asking someon
 
 ## Smart way to ask a Question
 
-https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
+<https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>
 
 The question asked on the website above is a smart way to ask a question. The question he asked was relevant to StackOverflow, where questions about computer science are answered. When asking his question, he put all the code necessary to analyze and also gave his experience when coming up with the problem he had. He also put his thought into the question so the person that answered his question can explain the answer in terms he can understand. This is why I thought this question was a smart way to ask a question.
 
 ## Not so Smart way to ask a Question
 
-https://stackoverflow.com/questions/31117132/why-cant-we-declare-variables-in-if-statement
+<https://stackoverflow.com/questions/31117132/why-cant-we-declare-variables-in-if-statement>
 
 The question asked on the website above is not a smart way to ask a question. In this situation, this person already knew that there were questions that were very similar to his on the site. He is also asking a question on why something doesn't exist. In the question he is asking why he can't declare variables in an if statement. The comments below say it's because the language does not support it. This is one example I found on how to ask a not so smart question.
