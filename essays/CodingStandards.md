@@ -15,7 +15,7 @@ According to Perforce, "Coding standards are collections of coding rules, guidel
 
 The biggest advantage in writing code that follows the coding standards is that it makes everyone who reads it understand it better. When someone does not follow coding standards, It may cause the reader to not understand what is going on. Not every programmer knows every programming language but by reading code that is properly formatted, they may understand what is happening in the code. If all your code is written on one line, it will be very hard for readers to understand what is happening in the code. Another advantage is that it is easier to see where there is an error in your code. Since the code will be easier to read, you can find your mistake faster. Coding standards give a uniform appearance to the codes written by different engineers. This will make finding the error faster because if your code is uniform you will be able to tell where your mistake is by reading one line at a time. It will also be easier for other people to maintain your code because it would be easier to read.
 
-## Using Programs that make you Follow the Coding Standards
+## Using ESLint
 
 After using ESLint, I found it way easier when looking for errors in my code. This helped me because when using LSLint, there will be red squiggly marks where there is a problem with your code or if there is something wrong with your formatting. The only error it does not pick up is semantic errors. But, if you follow the coding standards, then it will be easier to find where you messed up since the code would be clearer and easier to read.
 
