@@ -17,7 +17,7 @@ The biggest advantage in writing code that follows the coding standards is that 
 
 ## Using ESLint
 
-After using ESLint, I found it way easier when looking for errors in my code. This helped me because when using LSLint, there will be red squiggly marks where there is a problem with your code or if there is something wrong with your formatting. The only error it does not pick up is semantic errors. But, if you follow the coding standards, then it will be easier to find where you messed up since the code would be clearer and easier to read.
+After using ESLint, I found it way easier when looking for errors in my code. This helped me because when using ESLint, there will be red squiggly marks where there is a problem with your code or if there is something wrong with your formatting. The only error it does not pick up is semantic errors. But, if you follow the coding standards, then it will be easier to find where you messed up since the code would be clearer and easier to read.
 
 ## Resources
 <https://www.perforce.com/resources/qac/coding-standards>
