@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: UI Frameworks are Things you Should Learn
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-08
 labels:
