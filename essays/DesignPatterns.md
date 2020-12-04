@@ -18,7 +18,7 @@ Have you been using a Design Pattern? "Design patterns are commonly defined as t
 
 Before I heard what a design pattern was, I was using it. Even though I did not know what a design pattern was, I was using it to solve different problems when I was learning how to make an application. I was using the same template to build different applications. This made it easy for me since I was using the same template over and over again. The hardest part in all of this was trying to figure out how the template worked. I had to figure out how the application gets built using the template. When I figured that out, it was much easier using this design pattern to solve different design problems.
 
-## The Benefits in using Design Patterns
+## The Benefits
 
 I think that the best benefit in using design patterns is the amount of time you save. When using a design pattern you save a lot of time because you would have used it before on a different design problem. If you do not use a design pattern, then you will have to keep brainstorming ways to solve a design problem when coming up with different problems. When using a design pattern you save a lot of time when you are brainstorming since you already have a general solution to the problem, all you have to do is tweak some details. This is just like adding numbers. In the beginning you have to figure out how addition works. When you figure that out you can solve any type of addition problem later after tweaking the numbers. With example above all I had to tweak was the template to get my desired outcome.
 
