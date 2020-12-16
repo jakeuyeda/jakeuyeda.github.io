@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/website-project.jpg
+image: images/website-project.JPG
 title: Manoa Clubs Finder
 permalink: projects/manoa-clubs-finder
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: Manoa Clubs Finder is a web application that I built with a group.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/website-project.jpg">
+<img class="ui medium right floated rounded image" src="../images/website-project.JPG">
 
 [Manoa Clubs Finder](https://manoa-clubs-finder.github.io/) is a web application that I built with two other people.
 
