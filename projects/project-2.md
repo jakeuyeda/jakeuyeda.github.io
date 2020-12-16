@@ -13,7 +13,7 @@ labels:
 summary:  I designed a raquetball game using circuit boards and DE2 boards with a partner in EE260. 
 ---
 
-<img class="ui large right floated rounded image" src="../images/logic.png">
+<img class="ui large right floated rounded image" src="../images/logic.PNG">
 
 This was a project where I worked with one other person. We had the opportunity to design and implement several design techniques using SSi and MSI parts and gave us more experience using VHDL and Altera DE2 boards.
 
