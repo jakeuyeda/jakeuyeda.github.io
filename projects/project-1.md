@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/website-project.JPG
+image: images/website-project-square.JPG
 title: Manoa Clubs Finder
 permalink: projects/manoa-clubs-finder
 # All dates must be YYYY-MM-DD format!
