@@ -1,26 +1,25 @@
 ---
 layout: project
 type: project
-image: images/mana_square.jpg
-title: Mana FC
-permalink: projects/manafc
+image: images/website-project.jpg
+title: Manoa Clubs Finder
+permalink: projects/manoa-clubs-finder
 # All dates must be YYYY-MM-DD format!
-date: 2017-06-18
+date: 2020-12-16
 labels:
-  - Sports
-  - Team Building
-  - Leadership
-summary: Mana FC is a soccer team in which I was a team captain.
+  - Web Design
+  - Javascript
+  - React
+summary: Manoa Clubs Finder is a web application that I built with a group.
 ---
 
-Mana FC was a soccer team in which I was a team captain. I was on this team 2014-2017 with some of my friends. We played in the league called HYSA (Hawaii Youth Soccer Association). We had practice twice a week and at least one game every weekend. Most of my teammates were younger than me so I had to be someone who could be relied on.
+[Manoa Clubs Finder](https://manoa-clubs-finder.github.io/) is a web application that I built with two other people.
 
-For this team, I was a team captain who was responsible for encouraging my teammates, being a role model, and relaying my coaches orders. Being on this team taught me a lot of things. It taught me how to be a leader and how to work in a team. When being a leader I learned that you had to be a good role model. You could not just tell a person to do something if you are not doing it too. That would make them think bad of you, and in the future may not even listen to you.
+Manoa Clubs Finder is a web application that provides a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. Manoa Clubs Finder has three user roles, all of whom login with their UH ID. Regular users browse the directory. Club Admins have the ability to edit the data associated with their club. Super Admins make sure site content is appropriate and grant “club admin” privileges to selected users. Users can sort through all the clubs using catagories or keywords and can specify interest areas, and be notified when a new club is created matching that interest area (or an existing club adds that interest area).
 
-Before I was a team captain for Mana FC, I thought it was to be a leader. I thought you just had to tell people what to do when you are in a certain situation. But, when I came I became a team captain, I didn't realize all the new skills required to become a good leader. Some of the skills that I found was required along the way was to be vocal and listen to your fellow teammates. When being a leader, I realized that you do not to be perfect. You can listen to your fellow teammates advice if you are not sure what to do. This is what I found out when becoming a team captain for Mana FC.
+What I learned from this projects is how to work in a group. We developed a sequences of Milestones that has a specified set of tasks. We split the tasks up with our group and did each task. After each task was done, we would deploy the code to the server and put all our code in the master branch in [github](https://github.com/manoa-clubs-finder/manoa-clubs-finder). We did this until our web application was functioning.
 
-
-You can learn more about HYSA at the [HYSA Website](https://www.hawaiisoccer.com/about-hysa/). This is where we got into tounaments and played our season.
+You can view the webiste at the [Manoa Clubs Finder](http://manoa-clubs-finder.xyz/#/). 
 
 
 
