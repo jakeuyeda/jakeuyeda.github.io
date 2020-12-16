@@ -13,7 +13,7 @@ labels:
 summary: Manoa Clubs Finder is a web application that I built with a group.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/website-project.JPG">
+<img class="ui large right floated rounded image" src="../images/website-project.JPG">
 
 [Manoa Clubs Finder](https://manoa-clubs-finder.github.io/) is a web application that I built with two other people.
 
