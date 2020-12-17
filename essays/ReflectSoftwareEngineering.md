@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Software Engineering
+title: What Software Engineering Entails
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
@@ -10,14 +10,18 @@ labels:
   - Software Engineering
 ---
 
-## What I learned
+## What Software Engineering Entails
 
-Have you been using a Design Pattern? "Design patterns are commonly defined as time-tested solutions to recurring design problems." [(Maiorriello)](https://www.developer.com/design/article.php/1474561/What-Are-Design-Patterns-and-Do-I-Need-Them.htm) These design problems are issues that are not solved that developers need to take into consideration. For example, a design problem may be to design a way for families to connect during COVID-19. Another design problem may be to design a way for people to figure out the best places to eat in the city. These design problems can be solved using design patterns because they both can be made using an application. A design pattern they both have can be a structural one where both these applications have the same structure. This may mean that the pages and components can be made the same way. Where the application can look similar but have different contents. These design patterns can be used because they are tested through time. This means that these design patterns can be used throughout your life as a developer. This makes it so that you can be faster when solving these design problems.
+After learning about Software Engineering for about half a year, I learned many things. Some of these things include Open Source Software Development, Configuration Management, Functional Programming, Development Environments, Coding Standards, User Interface Frameworks, Agile Project Management, Design Patterns, Ethics in Software Engineering. I'm not going to explain what every single one is, but I will explain to you what I think are the three most important things I learned and I will use throughout my career.
 
-## The things that will follow me throughout my career
+## Design Patterns
 
-Before I heard what a design pattern was, I was using it. Even though I did not know what a design pattern was, I was using it to solve different problems when I was learning how to make an application. I was using the same template to build different applications. This made it easy for me since I was using the same template over and over again. The hardest part in all of this was trying to figure out how the template worked. I had to figure out how the application gets built using the template. When I figured that out, it was much easier using this design pattern to solve different design problems.
+I find design patterns very useful.  "Design patterns are commonly defined as time-tested solutions to recurring design problems." [(Maiorriello)](https://www.developer.com/design/article.php/1474561/What-Are-Design-Patterns-and-Do-I-Need-Them.htm) This means that they are patterns that you can use to solve different types of design problems. The design patterns may include having the same template for an application or having the same data structure to store different types of data. Design Patterns are very useful because once you are familiar with a design pattern, you will be able to finish your project faster since you are using the same design patterns all over again. The best thing about design patterns is that they are time-tested solutions. This means that you do not have to worry about the design patterns being wrong. All you have to worry about is tweaking the design so that you can finish your project.
 
-## What I loved
+## Agile Project Management
 
-I think that the best benefit in using design patterns is the amount of time you save. When using a design pattern you save a lot of time because you would have used it before on a different design problem. If you do not use a design pattern, then you will have to keep brainstorming ways to solve a design problem when coming up with different problems. When using a design pattern you save a lot of time when you are brainstorming since you already have a general solution to the problem, all you have to do is tweak some details. This is just like adding numbers. In the beginning you have to figure out how addition works. When you figure that out you can solve any type of addition problem later after tweaking the numbers. With example above all I had to tweak was the template to get my desired outcome.
+Agile project management is a thing that will follow you throughout your life even though you may not have a career in Software Engineering. People will work with one another no matter what career you go into. Agile project management is a way for a group to work with one another on a project. This is very important because not many people know how to efficiently work in groups together. When learning software engineering, I learned how to efficiently work in a group by having milestones and assigning tasks to each member of the group. We will finish all the tasks that we were assigned before the milestone. At each milestone, we will have a meeting on the progress of each member and what we should do for the next milestone. We keep doing this until the project is complete. This is important to learn because many jobs have big projects that multiple people need to work on. Learning agile project management will help me throughout my career and I am glad I learned it.
+
+## Ethics in Software Engineering
+
+What I find the most important thing in Software Engineering is your ethics. Ethics in Software Engineering is important because it will make your clients or users feel safe with the program you created. Developing trust with your clients and users will help you succeed with your application. When learning about Software Engineering for half of the year, I learned about Facebook's situation. I learned that a lot of people do not trust Facebook anymore since they are doing things behind the public's back. Facebook is hiding things from their user about what they do with their personal data. This makes a lot of users leave Facebook because they lost the user's trust. I do not want to follow in Facebook's footsteps where I lose the public's trust and will feel bad for doing things that may not be morally right. I do not want things to be hidden in the dark about stuff and I want the users to know what is happening to the application and all its data. This is one of the things I learned in Software Engineering that will follow me throughout my career.
