@@ -23,7 +23,7 @@ What I did for this project was I created all the different roles each user coul
 
 What I learned from this project is how to work in a group. We developed a sequence of Milestones that has a specified set of tasks. We split the tasks up with our group and did each task. After each task was done, we would deploy the code to the server and put all our code in the master branch in [github](https://github.com/manoa-clubs-finder). We did this until our web application was functioning.
 
-You can view the website at the [Manoa Clubs Finder](http://manoa-clubs-finder.xyz/#/). 
+You can view the website at the [Manoa Clubs Finder](https://manoa-clubs-finder.xyz/#/). 
 
 
 
